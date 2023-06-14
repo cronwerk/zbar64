@@ -1,4 +1,4 @@
-ZBar Windows x64 port for VS2013
+ZBar Windows x64 port for VS2022
 ================================
 
 This project is a fork of the Zbar bar code reader project, adapted for compiling under VS2013. My main objective was to be able to build a x64 version of the ZBar library for use in my applications. 
